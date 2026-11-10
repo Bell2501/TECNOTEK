@@ -1,0 +1,19 @@
+<svg width="280" height="90" viewBox="0 0 280 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="90" rx="18" fill="#0D1B2A"/>
+  <g transform="translate(18 16)">
+    <rect x="0" y="0" width="52" height="52" rx="16" fill="url(#paint0_linear)"/>
+    <path d="M25.5 16L13 20.6V31.2C13 38.1 17.4 43.3 25.5 47C33.6 43.3 38 38.1 38 31.2V20.6L25.5 16Z" stroke="white" stroke-width="2.6" stroke-linejoin="round"/>
+    <path d="M19.2 29.7L23.4 33.9L32.4 24.9" stroke="white" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g fill="#EFF6FF">
+    <text x="88" y="38" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="0.4">TECNO</text>
+    <text x="180" y="38" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#42D7D0">TEK</text>
+    <text x="90" y="60" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2.2" fill="#9CB0C8">SEGURIDAD Y TECNOLOGÍA</text>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear" x1="10" y1="8" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2C7BFF"/>
+      <stop offset="1" stop-color="#153D9E"/>
+    </linearGradient>
+  </defs>
+</svg>
